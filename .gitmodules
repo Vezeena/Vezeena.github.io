@@ -1,3 +1,6 @@
 [submodule "sidescroller"]
 	path = sidescroller
 	url = git@github.com:Vezeena/sidescroller.git
+[submodule "Music-Visualiser"]
+	path = Music-Visualiser
+	url = git@github.com:Vezeena/Music-Visualiser.git
