@@ -1,0 +1,3 @@
+[submodule "sidescroller"]
+	path = sidescroller
+	url = git@github.com:Vezeena/sidescroller.git
