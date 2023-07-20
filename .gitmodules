@@ -4,3 +4,6 @@
 [submodule "Music-Visualiser"]
 	path = Music-Visualiser
 	url = git@github.com:Vezeena/Music-Visualiser.git
+[submodule "theme-park"]
+	path = theme-park
+	url = git@github.com:Vezeena/theme-park.git
