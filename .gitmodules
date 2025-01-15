@@ -7,3 +7,6 @@
 [submodule "theme-park"]
 	path = theme-park
 	url = git@github.com:Vezeena/theme-park.git
+[submodule "toto"]
+	path = toto
+	url = git@github.com:Vezeena/Toto.git
